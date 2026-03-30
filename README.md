@@ -25,13 +25,6 @@ Completed as part of a senior aircraft design capstone at Penn State during Augu
 - Modeled wing geometry in SolidWorks targeting **less than 6 inches of tip deflection**
 - Contributed to a preliminary aircraft concept achieving **685 nmi range**, **17.36 hr endurance**, and **2,864 fpm maximum rate of climb** with a **5 BHP Wankel engine**
 
-## Repository Contents
-- aerodynamic analysis plots
-- airfoil performance figures
-- wing geometry images
-- selected design results
-- supporting writeup or report material that is approved for sharing
-
 ## Notes
 This repository contains only shareable project material.
 
